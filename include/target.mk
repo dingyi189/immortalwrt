@@ -24,6 +24,7 @@ DEFAULT_PACKAGES:=\
     drill \
 	dropbear \
 	fstools \
+    htop \
 	libc \
 	libgcc \
 	libustream-openssl \
