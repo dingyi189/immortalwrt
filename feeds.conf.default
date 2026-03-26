@@ -1,7 +1,7 @@
-src-git nss_packages https://github.com/qosmio/nss-packages.git
-src-git sqm_scripts_nss https://github.com/JuliusBairaktaris/sqm-scripts-nss.git
-src-git packages https://github.com/immortalwrt/packages.git
-src-git luci https://github.com/immortalwrt/luci.git
-src-git routing https://github.com/openwrt/routing.git
-src-git telephony https://github.com/openwrt/telephony.git
-src-git video https://github.com/openwrt/video.git
+src-git nss_packages https://github.com/dingyi189/nss-packages.git
+src-git sqm_scripts_nss https://github.com/dingyi189/sqm-scripts-nss.git
+src-git packages https://github.com/dingyi189/packages.git
+src-git luci https://github.com/dingyi189/luci.git
+src-git routing https://github.com/dingyi189/routing.git
+src-git telephony https://github.com/dingyi189/telephony.git
+src-git video https://github.com/dingyi189/video.git
